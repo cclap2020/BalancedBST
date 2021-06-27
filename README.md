@@ -1,4 +1,4 @@
 # BalancedBST
-An assignment from a semester
 
-Data Structure: Balanced Binary Search Tree
+
+Data Structure Project: Balanced Binary Search Tree
